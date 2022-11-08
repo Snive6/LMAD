@@ -1,0 +1,7 @@
+Czy redukcja wymiarow ma sens?
+
+Zadanie:
+Wskazac czy redukcja wymiarow ma sens, bo predykcja jest bardzo podobna itp.
+Uzyc inne metody niz regresja logistyczna
+lasy losowe?
+Znalezc jakis algorytm ktory bedzie lepiej do definiowac
